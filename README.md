@@ -27,9 +27,10 @@ For detailed steps, please refer to the [Notion notes](https://www.notion.so/Azu
 
 ## Deploy the ARM Template
 
+
 To deploy the ARM template directly from GitHub to your Azure environment, click the link below:
 
 [Deploy to Azure](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/Carlos2002234/Azure-Honeypot-Lab/refs/heads/main/template.json)
 
-This will open the Azure Portal and automatically load the template, allowing you to customize the deployment.
+This will automatically open the Azure Portal with the template pre-loaded and ready for deployment.
 
