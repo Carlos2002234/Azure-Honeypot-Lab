@@ -25,6 +25,6 @@
 For detailed steps, please refer to the [Notion notes](https://www.notion.so/Azure-Honeypot-Lab-1629aac6d38a80ada7f1c462f8745f92?showMoveTo=true&saveParent=true).
 
 
-## Arm. 
+## ARM TEMPLATE 
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/template/preview?id=https://github.com/your-username/your-repo-name/raw/main/templates/azuredeploy.json)
