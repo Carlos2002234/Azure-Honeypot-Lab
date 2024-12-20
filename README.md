@@ -13,3 +13,9 @@
 
 - Azure account and active Azure subscription.
 - An account in Geolocation to get the API KEY.
+
+---
+
+## 3. Steps
+
+For detailed steps, please refer to the [Notion notes](https://www.notion.so/Azure-Honeypot-Lab-1629aac6d38a80ada7f1c462f8745f92?showMoveTo=true&saveParent=true).
