@@ -6,6 +6,7 @@
   - Gain hands-on experience with Azure security tools like Network Watcher, Sentinel, and Log Analytics.
   - Develop skills in detecting and mitigating cyber threats.
   - Strengthen their knowledge of network traffic analysis and attack patterns.
+![image](https://github.com/user-attachments/assets/e94fc89c-f48b-4e3f-937c-c70eff7d4ada)
 
 ---
 
