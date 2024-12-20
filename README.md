@@ -25,7 +25,11 @@
 For detailed steps, please refer to the [Notion notes](https://www.notion.so/Azure-Honeypot-Lab-1629aac6d38a80ada7f1c462f8745f92?showMoveTo=true&saveParent=true).
 
 
-## ARM TEMPLATE 
+## Deploy the ARM Template
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/template/preview?id=https://raw.githubusercontent.com/Carlos2002234/Azure-Honeypot-Lab/main/template.json)
+To deploy the ARM template directly from GitHub to your Azure environment, click the link below:
+
+[Deploy to Azure](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/Carlos2002234/Azure-Honeypot-Lab/refs/heads/main/template.json)
+
+This will open the Azure Portal and automatically load the template, allowing you to customize the deployment.
 
