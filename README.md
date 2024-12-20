@@ -16,7 +16,7 @@
 ## 2. Prerequisites
 
 - Azure account and active Azure subscription.
-- An account in Geolocation to get the API KEY.
+- An account in ipgeolocation to get the API KEY.
 
 ---
 
