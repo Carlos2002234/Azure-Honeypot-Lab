@@ -8,6 +8,10 @@
   - Strengthen their knowledge of network traffic analysis and attack patterns.
 ---
 
+![image](https://github.com/user-attachments/assets/1a1c73b0-8a07-459d-9993-221162812b81)
+
+
+
 ## 2. Prerequisites
 
 - Azure account and active Azure subscription.
