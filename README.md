@@ -27,4 +27,5 @@ For detailed steps, please refer to the [Notion notes](https://www.notion.so/Azu
 
 ## ARM TEMPLATE 
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/template/preview?id=https://github.com/your-username/your-repo-name/raw/main/templates/azuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/template/preview?id=https://raw.githubusercontent.com/Carlos2002234/Azure-Honeypot-Lab/main/template.json)
+
