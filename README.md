@@ -22,7 +22,7 @@
 
 ## 3. Steps
 
-For detailed steps, please refer to the [Notion notes](https://www.notion.so/Azure-Honeypot-Lab-1629aac6d38a80ada7f1c462f8745f92?showMoveTo=true&saveParent=true).
+For detailed steps, please refer to the https://www.youtube.com/watch?v=hRpZoFsoLD4&t=3s
 
 
 
